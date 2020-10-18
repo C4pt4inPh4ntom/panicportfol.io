@@ -241,9 +241,15 @@ p,li,span, label, input,textarea{
 }
 
 .contact-form{
-	border: 1px solid var(--borderColor);
-    border-radius: 0 0 0 0;
     background-color: var(--borderColor);
+    border: 1px solid var(--borderColor);
+    border-radius: 5px 5px 0 0;
+
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+
+	
     display: grid;
     grid-template-columns: 1fr;
     grid-template-areas: 
@@ -255,10 +261,7 @@ p,li,span, label, input,textarea{
 
 
 .right-col2{
-    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
-    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
-    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
-
+    
     display: grid;
     align-content: center;
     padding-left: 100px;
