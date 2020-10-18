@@ -348,5 +348,11 @@ p,li,span, label, input,textarea{
         justify-content: center;
     }
 
+    .right-col1{
+        justify-content: center;
+    }
     
+    .right-col2{
+        justify-content: center;
+    }
 }
