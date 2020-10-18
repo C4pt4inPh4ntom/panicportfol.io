@@ -338,8 +338,8 @@ p,li,span, label, input,textarea{
         grid-template-columns: 1fr;
         grid-template-areas: 
         'nav-wrp'
-        'left-col1'
-        'right-col1'
+        'left-col'
+        'right-col'
         ;
     
     }
@@ -348,8 +348,8 @@ p,li,span, label, input,textarea{
         grid-template-columns: 1fr;
         grid-template-areas: 
         'nav-wrp'
-        'left-col'
-        'right-col'
+        'left-col1'
+        'right-col1'
         ;
     
     }
@@ -365,4 +365,6 @@ p,li,span, label, input,textarea{
     .right-col2{
         justify-content: center;
     }
+
+    
 }
