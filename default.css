@@ -254,8 +254,8 @@ p,li,span, label, input,textarea{
     'nav-wrp'
     'right-col2'
     ;
-
 }
+
 .nav-wrp{
     grid-area: nav-wrp;
     border-bottom: 0 solid var(--borderColor));
@@ -332,7 +332,7 @@ p,li,span, label, input,textarea{
     }
 }
 
-@media screen and (max-width:500px){
+@media screen and (max-width:900px){
 
     .intro-wrp{
         grid-template-columns: 1fr;
@@ -354,6 +354,8 @@ p,li,span, label, input,textarea{
     
     }
 
+
+
     .right-col{
         justify-content: center;
     }
@@ -362,9 +364,6 @@ p,li,span, label, input,textarea{
         justify-content: center;
     }
     
-    .right-col2{
-        justify-content: center;
-    }
-
+    
     
 }
