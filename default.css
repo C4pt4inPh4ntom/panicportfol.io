@@ -252,25 +252,6 @@ p,li,span, label, input,textarea{
     ;
 }
 
-.nav-wrp1{
-    grid-area: nav-wrp;
-    border-bottom: 0 solid var(--borderColor));
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    background-color: var(--borderColor);
-}
-
-#nav1{
-    margin: 10;
-    padding: 5px;
-}
-
-#nav1 li{
-    display: inline-block;
-    margin-right: 5px;
-    margin-left: 5px; 
-}
 
 
 .right-col2{
@@ -280,7 +261,7 @@ p,li,span, label, input,textarea{
 
     display: grid;
     align-content: center;
-    padding-left: 150px;
+    padding-left: 100px;
     padding-right: 150px;
     padding-top: 20px;
     padding-bottom: 50px;
@@ -322,7 +303,7 @@ p,li,span, label, input,textarea{
 }
 
 
-@media screen and (max-width:2200px){
+@media screen and (max-width:1000px){
     .main-container{
         width: 85%;
     }
@@ -343,7 +324,7 @@ p,li,span, label, input,textarea{
     .about-wrp{
         grid-template-columns: 1fr;
         grid-template-areas: 
-        'nav-wrp1'
+        'nav-wrp'
         'left-col1'
         'right-col1'
         ;
