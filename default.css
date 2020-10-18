@@ -226,8 +226,8 @@ p,li,span, label, input,textarea{
     grid-area: right-col;
     display: grid;
     align-content: justify;
-    padding-left: 110px;
-    padding-right: 150px;
+    padding-left: 100px;
+    padding-right: 200px;
     padding-top: 50px;
     padding-bottom: 50px;
 }
