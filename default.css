@@ -176,7 +176,7 @@ p,li,span, label, input,textarea{
 
 #preview{
     width: 300px;
-    border: 2px dotted lightslategray;
+    border: 2px dotted cyan;
     padding: 15px;
 }
 
