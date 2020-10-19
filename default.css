@@ -285,9 +285,9 @@ p,li,span, label, input,textarea{
 	width: 100%;
 	padding-top: 10px;
 	padding-bottom:10px; 
-	background-color: ghostwhite;
+	background-color: var(--borderColor);
 	border-radius: 5px;
-	border:1px solid var(--borderColor);
+	border:1px solid cyan;
 	font-size: 14px;
 }
 
@@ -302,7 +302,7 @@ p,li,span, label, input,textarea{
 	padding-bottom:10px; 
     color:black;
 	background-color: #20c8aa;
-	border:1px dotted;
+	border:1px solid;
 }
 
 
