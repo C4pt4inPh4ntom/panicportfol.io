@@ -254,7 +254,7 @@ p,li,span, label, input,textarea{
     display: grid;
     grid-template-columns: 1fr;
     grid-template-areas: 
-    'nav-wrp'
+    'nav-wrp1'
     'right-col2'
     ;
 }
