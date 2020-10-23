@@ -307,9 +307,9 @@ p,li,span, label, input,textarea{
 }
 
 
-@media screen and (max-width:1000px){
+@media screen and (max-width:1200px){
     .main-container{
-        width: 85%;
+        width: 95%;
     }
 }
 
