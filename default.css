@@ -43,23 +43,23 @@ p,li,span, label, input,textarea{
 }
 
 .s1{
-    background-color: #4d41d0;
-    background-image: linear-gradient(0deg, #4d41d0 0%, #20c8aa 94%);
+    background-color: #21D4FD;
+    background-image: linear-gradient(90deg, #21D4FD 0%, #B721FF 100%);
     overflow: auto;
     padding-bottom: 50px;
    
 }
 
 .s2{
-    background-color: #4d41d0;
-    background-image: linear-gradient(180deg, #4d41d0 0%, #20c8aa 100%);
+    background-color: #21D4FD;
+    background-image: linear-gradient(90deg, #21D4FD 0%, #B721FF 100%);
     overflow: auto; 
     padding-bottom: 50px;   
 }
 
 .s3{
-    background-color: #4d41d0;
-    background-image: linear-gradient(0deg, #4d41d0 0%, #20c8aa 94%);
+    background-color: #21D4FD;
+    background-image: linear-gradient(90deg, #21D4FD 0%, #B721FF 100%);
     overflow: auto;
     padding-bottom: 50px;
    
