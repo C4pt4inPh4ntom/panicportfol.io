@@ -308,7 +308,9 @@ p,li,span, label, input,textarea{
 }
 
 
-
+.foot{
+    text-align: center;
+}
 
 @media screen and (max-width:1200px){
     .main-container{
