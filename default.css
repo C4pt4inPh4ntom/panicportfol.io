@@ -293,18 +293,26 @@ p,li,span, label, input,textarea{
 }
 
 
-#submit-btn{
-    margin-top: 10px;
-    align-items: justify;
-    width: 100%;
-    padding-left: 90px;
-    padding-right: 90px;
-	padding-top: 10px;
-	padding-bottom:10px; 
-    color:black;
-	background-color: #20c8aa;
-	border:1px solid;
-}
+
+.submit-btn 
+{background-image: linear-gradient(to right, #24C6DC 0%, #514A9D  51%, #24C6DC  100%)}
+.submit-btn {
+   margin: 10px;
+   padding: 15px 45px;
+   text-align: center;
+   text-transform: uppercase;
+   transition: 0.5s;
+   background-size: 200% auto;
+   color: white;            
+   border-radius: 5px;
+   display: block;
+ }
+
+ .submit-btn:hover {
+   background-position: right center; /* change the direction of the change here */
+   color: #fff;
+   text-decoration: none;
+ }
 
 
 @media screen and (max-width:1200px){
