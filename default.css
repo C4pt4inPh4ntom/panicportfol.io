@@ -16,13 +16,13 @@ h1,h2,h4,h5,h6,strong{
 }
 
 h3{
-    color: lightskyblue;
+    color: cyan;
     font-family: 'Barlow', sans-serif;
 }
 
 a{
     text-decoration: none;
-    color: lawngreen;
+    color: greenyellow;
 }
 
 ul{
