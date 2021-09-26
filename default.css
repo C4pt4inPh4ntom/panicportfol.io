@@ -182,13 +182,7 @@ p,li,span, label, input,textarea{
     padding: 15px;
     /* display: block;
     margin: auto; */
-    grid-area: right-col;
-    display: grid;
-    align-content: justify;
-    padding-left: 100px;
-    padding-right: 200px;
-    padding-top: 10px;
-    padding-bottom: 50px;
+    
 }
 
 .about-wrp{
