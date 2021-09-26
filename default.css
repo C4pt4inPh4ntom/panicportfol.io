@@ -180,6 +180,7 @@ p,li,span, label, input,textarea{
     width: 300px;
     border: 2px dashed cyan;
     padding: 15px;
+    display: block;
 }
 
 .about-wrp{
