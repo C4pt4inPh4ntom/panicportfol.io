@@ -181,6 +181,7 @@ p,li,span, label, input,textarea{
     border: 2px dashed cyan;
     padding: 15px;
     display: block;
+    margin: auto;
 }
 
 .about-wrp{
