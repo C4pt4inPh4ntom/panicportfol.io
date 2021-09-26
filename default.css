@@ -170,7 +170,7 @@ p,li,span, label, input,textarea{
 .right-col{
     grid-area: right-col;
     display: grid;
-    align-content: center;
+    align-content: right;
     padding-left: 90px;
     padding-top: 50px;
     padding-bottom: 50px;
