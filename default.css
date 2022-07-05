@@ -152,6 +152,9 @@ p,li,span, label, input,textarea{
 
 .left-col{
     grid-area: left-col;
+    display: grid;
+    align-content: left;
+    padding-right: 90px;
     padding-top: 50px;
     padding-bottom: 50px;
     
